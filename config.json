@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogcoding",
+    "prod_uri": "mysql://root:@localhost/blogcoding",
+    "fb_url": "https://facebook.com/uniqueblog",
+    "twt_url": "https://twitter.com/uniqueblog",
+    "git_url": "https://github.com/uniqueblog",
+    "gmail_user": "",
+    "gmail_pass": "",
+    "about_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!",
+    "no_of_post": 5,
+    "admin_user": "bed",
+    "admin_pass": "12345"
+  }
+
+
+
+}
