@@ -2,11 +2,11 @@
 using flask framework and mysql database server
 
 # home page
-![image](https://user-images.githubusercontent.com/61457302/124970254-51857c80-e045-11eb-801f-5658ab344045.png)
 
-
-# about page
 ![image](https://user-images.githubusercontent.com/61457302/124970161-331f8100-e045-11eb-8a8f-0dfec7b3c54f.png)
+
+#  page
+![image](https://user-images.githubusercontent.com/61457302/124970254-51857c80-e045-11eb-801f-5658ab344045.png)
 
 # contact page
 ![image](https://user-images.githubusercontent.com/61457302/124970201-416d9d00-e045-11eb-8cdd-ce6f85103693.png)
